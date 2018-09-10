@@ -1,0 +1,9 @@
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\bin\Debug\netstandard2.0\rabbitMQ.Core.deps.json
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\bin\Debug\netstandard2.0\rabbitMQ.Core.dll
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\bin\Debug\netstandard2.0\rabbitMQ.Core.pdb
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.csprojAssemblyReference.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.csproj.CoreCompileInputs.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.AssemblyInfoInputs.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.AssemblyInfo.cs
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.dll
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Core\obj\Debug\netstandard2.0\rabbitMQ.Core.pdb

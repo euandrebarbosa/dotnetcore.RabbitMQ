@@ -1,0 +1,14 @@
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Test.deps.json
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Test.runtimeconfig.json
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Test.runtimeconfig.dev.json
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Test.dll
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Test.pdb
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Core.dll
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\bin\Debug\netcoreapp2.1\rabbitMQ.Core.pdb
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.csprojAssemblyReference.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.csproj.CoreCompileInputs.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.AssemblyInfoInputs.cache
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.AssemblyInfo.cs
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.csproj.CopyComplete
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.dll
+C:\Projects\_samples\dotnetcore\rabbitMQ\rabbitMQ.Test\obj\Debug\netcoreapp2.1\rabbitMQ.Test.pdb
